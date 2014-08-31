@@ -1,0 +1,24 @@
+{
+  "locations": [
+    {
+      "title": "Walt Disney Concert Hall",
+      "place": "Los Angeles",
+      "latitude": 34.055387,
+      "longitude": -118.249828,
+      "information": "The Walt Disney Concert Hall at 111 South Grand Avenue in Downtown of Los Angeles, California, is the fourth hall of the Los Angeles Music Center and was designed by Frank Gehry. It opened on October 24, 2003.",
+      "telephone": "(323) 850-2000",
+      "url": "http://www.laphil.com",
+      "visited" : false
+    },
+    {
+      "title": "AT&T Park",
+      "place": "San Francisco",
+      "latitude": 37.778175,
+      "longitude": -122.390725,
+      "information": "AT&T Park is a ballpark primarily used for hosting Major League Baseball games. It is located in the South of Market neighborhood of San Francisco, California, at 24 Willie Mays Plaza, at the corner of Third and King Streets.",
+      "telephone": "(415) 972-2000",
+      "url": "http://sanfrancisco.giants.mlb.com/sf/ballpark",
+      "visited" : false
+      }
+     ]
+}
