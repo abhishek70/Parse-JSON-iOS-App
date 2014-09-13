@@ -130,6 +130,7 @@
 		4607BFB0199F1148006E4FA1 /* JsonDataExample */ = {
 			isa = PBXGroup;
 			children = (
+				46D099B519C3D8AB00D2C592 /* AppDelegate */,
 				4607BFDF199F2441006E4FA1 /* View */,
 				4607BFDE199F2438006E4FA1 /* Controller */,
 				4607BFDD199F2431006E4FA1 /* Model */,
@@ -183,8 +184,6 @@
 		4607BFDE199F2438006E4FA1 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				4607BFBA199F1148006E4FA1 /* AppDelegate.m */,
-				4607BFB9199F1148006E4FA1 /* AppDelegate.h */,
 				4607BFE9199F2AF1006E4FA1 /* LocationsViewController.h */,
 				4607BFEA199F2AF1006E4FA1 /* LocationsViewController.m */,
 				4607BFEC199F2C24006E4FA1 /* LocationDetailViewController.h */,
@@ -201,6 +200,15 @@
 				4607BFF4199F3194006E4FA1 /* Main.storyboard */,
 			);
 			name = View;
+			sourceTree = "<group>";
+		};
+		46D099B519C3D8AB00D2C592 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				4607BFBA199F1148006E4FA1 /* AppDelegate.m */,
+				4607BFB9199F1148006E4FA1 /* AppDelegate.h */,
+			);
+			name = AppDelegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -503,6 +511,7 @@
 				4607BFD5199F1148006E4FA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4607BFD6199F1148006E4FA1 /* Build configuration list for PBXNativeTarget "JsonDataExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +520,7 @@
 				4607BFD8199F1148006E4FA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
